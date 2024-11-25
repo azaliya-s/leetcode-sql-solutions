@@ -1,0 +1,1 @@
+-- SQL solution for Count Salary Categories
